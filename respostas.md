@@ -13,7 +13,7 @@ sim, eu acho que a de encademaneto para frente.
 
 Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base de conhecimento baseada em regras do tipo "SE (antecedente)-ENTÃO (consequente)"? (sim, não ou não sei)
 
-sim.
+não sei.
 
 
 (opcional) Q4-Qual técnica esse "sistema especialista" utiliza?
