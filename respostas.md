@@ -8,12 +8,12 @@ não, sempre as mesmas perguntas são exibidas ao usuário.
 
 Q2-Este sistema especialista (sistema-especialista-dinossauro) usa a técnica de encadeamento para frente e encademento para trás, ou nenhuma delas? (sim, não ou não sei)
 
-sim, eu acho que a de encademaneto para frente.
+não.
 
 
 Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base de conhecimento baseada em regras do tipo "SE (antecedente)-ENTÃO (consequente)"? (sim, não ou não sei)
 
-não sei.
+não.
 
 
 (opcional) Q4-Qual técnica esse "sistema especialista" utiliza?
